@@ -1,3 +1,5 @@
+[![C++ CI](https://github.com/Macleodsolutions/SDL_image_ttf_template/actions/workflows/ci.yml/badge.svg)](https://github.com/Macleodsolutions/SDL_image_ttf_template/actions/workflows/ci.yml)
+
 # SDL Project Setup
 
 This project is a simple, self-contained CMake setup that downloads and configures SDL2, SDL2_image, and SDL2_ttf for development.
